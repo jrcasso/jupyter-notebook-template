@@ -40,6 +40,7 @@ eggs/
 parts/
 sdist/
 var/
+tmp/
 *.egg-info/
 .installed.cfg
 *.egg
